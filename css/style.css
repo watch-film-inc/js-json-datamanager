@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.table {
+  min-width: 990px;
+  max-width: 990px;
+  background-color: #ddd;
+  margin: 0 auto;
+}
+
+.search-bar {
+  margin: 10px;
+}
+
+.field {
+  width: 200px;
+  display: inline-block;
+  margin: 15px 50px;
+}
+
+.list {
+  background-color: white;
+}
