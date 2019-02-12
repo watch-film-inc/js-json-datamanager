@@ -1,1 +1,1 @@
-# js-json-datamanager
+# Json data visualizer implemented in javascript
